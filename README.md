@@ -13,9 +13,3 @@ LOCAL LOCAL LOCAL
 LOCAL LOCAL LOCAL
 LOCAL LOCAL LOCAL
 LOCAL LOCAL LOCALi
-
-<?php
-
-	echo 'Hello world';
-	echo 'Coucou !';
-?>
