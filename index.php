@@ -15,6 +15,14 @@
                 Mon mot de passe
                 <input type="password" value="*******" />
             </label>
+            <label>
+                Mon identifiant
+                <input type="text" placeholder="test" />
+            </label>
+            <label>
+                Mon mot de passe
+                <input type="password" value="*******" />
+            </label>
             <input type="submit">
         </form>
 	</body>
