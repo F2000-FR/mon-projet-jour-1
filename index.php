@@ -15,6 +15,7 @@
                 Mon mot de passe
                 <input type="password" value="*******" />
             </label>
+            <input type="submit">
         </form>
 	</body>
 </html>
