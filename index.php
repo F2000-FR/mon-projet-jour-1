@@ -9,7 +9,11 @@
 		<form>
             <label>
                 Mon identifiant
-                <input type="text" />
+                <input type="text" placeholder="test" />
+            </label>
+            <label>
+                Mon mot de passe
+                <input type="password" value="*******" />
             </label>
         </form>
 	</body>
